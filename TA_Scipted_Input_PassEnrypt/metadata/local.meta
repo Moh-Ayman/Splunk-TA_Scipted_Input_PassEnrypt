@@ -1,0 +1,13 @@
+[inputs/splunktcp%3A%2F%2F9997]
+owner = admin
+version = 9.0.0.1
+modtime = 1657231948.779718000
+
+[passwords/credential%3Aadmin_realm%3Aadmin%3A]
+owner = admin
+version = 9.0.0.1
+modtime = 1657269189.845952000
+
+[app/install/is_configured]
+version = 9.0.0.1
+modtime = 1657269584.371882000
